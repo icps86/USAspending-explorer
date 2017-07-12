@@ -4,7 +4,9 @@ USAspending Explorer is an open source tool designed to assist in the navigation
 
 With USAspending Explorer, you can understand how tax dollars are spent, explore who receives federal grants in your area, and see what that funding is directed towards. This tool shows total funding going to each county, and how funds are distributed geographically within the state adjusted by population. It also offers flexible comparisons between counties and the state average, displays county demographic information to inform county comparisons, and breaks down county funding by the funding agency, recipient, and program to better understand what is driving variations across counties.
 
-Explore the our GitHub Repository to find the code for producing the visualizations and running the shiny app.
+Access the final dashboard through this link: https://usaspending-explorer.shinyapps.io/USAspending_Explorer/
+
+And explore the GitHub Repository to find the code for producing the visualizations and running the shiny app.
 
 
 ## Launch this application in your R console
